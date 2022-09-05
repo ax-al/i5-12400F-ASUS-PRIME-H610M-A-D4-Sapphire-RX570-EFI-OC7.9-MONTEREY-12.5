@@ -2,13 +2,13 @@
 ![BBE7B77A540EC218ACDC07ECA14E69DF](https://user-images.githubusercontent.com/10291247/188373156-26d27c15-8f65-4c4a-beee-794ee71c77e5.jpg)
 
 ## 配置
-> 处理器 i5-12400F
-主板 华硕PRIME H610M-A D4
-内存 32 GB 
-主硬盘 WD Blue SN570 500GB SSD
-主显卡 蓝宝石RX570
-显示器 4K
-网卡 英特尔 Wifi6-ax201
+> 处理器 i5-12400F<br>
+主板 华硕PRIME H610M-A D4<br>
+内存 32 GB <br>
+主硬盘 WD Blue SN570 500GB SSD<br>
+主显卡 蓝宝石RX570<br>
+显示器 4K<br>
+网卡 英特尔 Wifi6-ax201<br>
 
 ## 说明
 
